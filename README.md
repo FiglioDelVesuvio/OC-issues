@@ -12,7 +12,7 @@ Ora dobbiamo selezionare la tipologia in base alla segnalazione che vogliamo far
 ![GitHub Logo](/images/selectissuetype.png)
 
 ## Segnalare un bug
-Dopo aver fatto ciò si aprirà una schermata dove si chiede **quale tipo di issue inserire**. Nel caso si tratti di bug cliccheremo **Segnala un bug prioritario** o **Segnala un bug non prioritario**.
+Nel caso si tratti di bug cliccheremo **Segnala un bug prioritario** o **Segnala un bug non prioritario**.
 
 Dopo aver selezionato la tipologia del bug da segnalare, compiliamo i vari campi che sono già presenti nello spazio del testo (descrizione, come riprodurlo,
 etc.) e clicchiamo "Submit new issue".
