@@ -1,8 +1,8 @@
 ---
-name: Segnala un bug prioritario
-about: Segnala un bug prioritario
+name: Segnala un bug non prioritario
+about: Segnala un bug non prioritario
 title: ''
-labels: high-priority-bug
+labels: low-priority-bug
 assignees: ''
 
 ---
